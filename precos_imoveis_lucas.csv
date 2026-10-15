@@ -1,0 +1,237 @@
+﻿bairro;tipo;area_m2;preco_total;preco_m2;fonte;atipico;data_coleta
+Parque das Emas;casa;449.01;5500000;12249;Domus Imoveis;sim;2026-10-12
+Bandeirantes;casa;500;4200000;8400;Domus Imoveis;sim;2026-10-12
+Bandeirantes;casa;240;3300000;13750;Domus Imoveis;sim;2026-10-12
+Pioneiro;casa;420;3300000;7857;Domus Imoveis;sim;2026-10-12
+Menino Deus;apartamento;175;2300000;13143;Domus Imoveis;sim;2026-10-12
+Menino Deus;apartamento;175;2300000;13143;Domus Imoveis;sim;2026-10-12
+Menino Deus;apartamento;175;2100000;12000;Domus Imoveis;sim;2026-10-12
+Bandeirantes;apartamento;119.7;1450000;12114;Domus Imoveis;sim;2026-10-12
+Centro;apartamento;152.05;1200000;7892;Domus Imoveis;nao;2026-10-12
+Parque das Emas;apartamento;110;1100000;10000;Domus Imoveis;nao;2026-10-12
+Parque dos Buritis;apartamento;110;950000;8636;Domus Imoveis;nao;2026-10-12
+Parque dos Buritis;apartamento;103;950000;9223;Domus Imoveis;nao;2026-10-12
+Pioneiro;apartamento;127;950000;7480;Domus Imoveis;nao;2026-10-12
+Pioneiro;apartamento;127;950000;7480;Domus Imoveis;nao;2026-10-12
+Bandeirantes;apartamento;110;940808;8553;Domus Imoveis;nao;2026-10-12
+Bandeirantes;apartamento;85;880000;10353;Domus Imoveis;nao;2026-10-12
+Parque das Emas;apartamento;104;750000;7212;Domus Imoveis;nao;2026-10-12
+Parque das Emas;apartamento;108.25;690000;6374;Domus Imoveis;nao;2026-10-12
+Bandeirantes;apartamento;91;680000;7473;Domus Imoveis;nao;2026-10-12
+Parque das Emas;apartamento;69;670000;9710;Domus Imoveis;nao;2026-10-12
+Bandeirantes;apartamento;82;650000;7927;Domus Imoveis;nao;2026-10-12
+Parque das Emas;apartamento;68;650000;9559;Domus Imoveis;nao;2026-10-12
+Parque das Emas;apartamento;65;635000;9769;Domus Imoveis;nao;2026-10-12
+Bandeirantes;apartamento;78;630000;8077;Domus Imoveis;nao;2026-10-12
+Alvorada;apartamento;100;630000;6300;Domus Imoveis;nao;2026-10-12
+Parque das Emas;apartamento;65;620000;9538;Domus Imoveis;nao;2026-10-12
+Bandeirantes;apartamento;83.49;610426;7311;Domus Imoveis;nao;2026-10-12
+Alvorada;apartamento;84;600000;7143;Domus Imoveis;nao;2026-10-12
+Bandeirantes;apartamento;69.12;456046;6598;Domus Imoveis;nao;2026-10-12
+Bandeirantes;apartamento;66.1;454274;6873;Domus Imoveis;nao;2026-10-12
+Bandeirantes;apartamento;53.93;453942;8417;Domus Imoveis;nao;2026-10-12
+Veneza;apartamento;56.93;450000;7904;Domus Imoveis;nao;2026-10-12
+Menino Deus;apartamento;67.54;450000;6663;Domus Imoveis;nao;2026-10-12
+Cidade Nova;apartamento;88.48;450000;5086;Domus Imoveis;nao;2026-10-12
+Menino Deus;apartamento;75.58;450000;5954;Domus Imoveis;nao;2026-10-12
+Veneza;apartamento;57;425000;7456;Domus Imoveis;nao;2026-10-12
+Bandeirantes;apartamento;47.56;420000;8831;Domus Imoveis;nao;2026-10-12
+Veneza;apartamento;57;420000;7368;Domus Imoveis;nao;2026-10-12
+Pioneiro;apartamento;73;420000;5753;Domus Imoveis;nao;2026-10-12
+Alvorada;apartamento;54;400000;7407;Domus Imoveis;nao;2026-10-12
+Parque das Emas;casa;191.12;1400000;7325;Domus Imoveis;sim;2026-10-12
+Bandeirantes;casa;266;1400000;5263;Domus Imoveis;sim;2026-10-12
+Cidade Nova;casa;233;1365000;5858;Domus Imoveis;sim;2026-10-12
+Bandeirantes;casa;184;1300000;7065;Domus Imoveis;sim;2026-10-12
+Bandeirantes;casa;220;1300000;5909;Domus Imoveis;sim;2026-10-12
+Alvorada;casa;190;1300000;6842;Domus Imoveis;sim;2026-10-12
+Alvorada;casa;272.11;1300000;4777;Domus Imoveis;sim;2026-10-12
+Centro;casa;165;1300000;7879;Domus Imoveis;sim;2026-10-12
+Alvorada;casa;187;1300000;6952;Domus Imoveis;sim;2026-10-12
+Parque das Emas;casa;243.05;1300000;5349;Domus Imoveis;sim;2026-10-12
+Bandeirantes;casa;137;1250000;9124;Domus Imoveis;sim;2026-10-12
+Jardim Amazônia;casa;232;750000;3233;Domus Imoveis;nao;2026-10-12
+Parque das Araras;casa;137.43;750000;5457;Domus Imoveis;nao;2026-10-12
+Parque das Emas;casa;126;750000;5952;Domus Imoveis;nao;2026-10-12
+Bandeirantes;casa;155;750000;4839;Domus Imoveis;nao;2026-10-12
+Parque das Américas;casa;69;700000;10145;Domus Imoveis;nao;2026-10-12
+Parque dos Buritis;casa;106.42;698000;6559;Domus Imoveis;nao;2026-10-12
+Parque dos Buritis;casa;106.42;691730;6500;Domus Imoveis;nao;2026-10-12
+Jardim Amazônia;casa;108;680000;6296;Domus Imoveis;nao;2026-10-12
+Jardim Amazônia;casa;209;670000;3206;Domus Imoveis;nao;2026-10-12
+Parque dos Buritis;casa;106.42;660000;6202;Domus Imoveis;nao;2026-10-12
+Parque dos Buritis;casa;106.42;650000;6108;Domus Imoveis;nao;2026-10-12
+Vival dos Ipês;casa;99.25;650000;6549;Domus Imoveis;nao;2026-10-12
+Jardim Primavera;casa;106;480000;4528;Domus Imoveis;nao;2026-10-12
+Jaime Seiti Fujii;casa;94;480000;5106;Domus Imoveis;nao;2026-10-12
+Jardim Imperial;casa;130;450000;3462;Domus Imoveis;nao;2026-10-12
+Vival dos Ipês;casa;70;450000;6429;Domus Imoveis;nao;2026-10-12
+Jardim Amazônia;casa;72.32;450000;6222;Domus Imoveis;nao;2026-10-12
+Parque das Américas;casa;54.85;450000;8204;Domus Imoveis;nao;2026-10-12
+Rio Verde;casa;61;450000;7377;Domus Imoveis;nao;2026-10-12
+Jardim Amazônia;casa;72.32;450000;6222;Domus Imoveis;nao;2026-10-12
+Jaime Seiti Fujii;casa;64.34;425000;6606;Domus Imoveis;nao;2026-10-12
+Jardim Primavera;casa;71;421000;5930;Domus Imoveis;nao;2026-10-12
+Parque das Américas;casa;72;420000;5833;Domus Imoveis;nao;2026-10-12
+Jardim Primavera;casa;100;400000;4000;Domus Imoveis;nao;2026-10-12
+Menino Deus;casa;104;380000;3654;MGF;nao;2026-10-12
+Parque dos Buritis;casa;106;630000;5943;MGF;nao;2026-10-12
+Não informado;casa;106;686242;6474;MGF;nao;2026-10-12
+Parque das Emas;apartamento;65;620000;9538;MGF;nao;2026-10-12
+Veneza;apartamento;57;360000;6316;MGF;nao;2026-10-12
+Bandeirantes;apartamento;62;552520;8912;MGF;nao;2026-10-12
+Não informado;apartamento;92;750000;8152;MGF;nao;2026-10-12
+Bandeirantes;apartamento;65;460000;7077;MGF;nao;2026-10-12
+Parque das Emas;casa;120;600000;5000;MGF;nao;2026-10-12
+Bandeirantes;apartamento;54;449000;8315;MGF;nao;2026-10-12
+Parque das Emas;casa;223;1200000;5381;MGF;sim;2026-10-12
+Parque das Emas;casa;290;1100000;3793;MGF;sim;2026-10-12
+Jardim Amazônia;casa;170;500000;2941;MGF;nao;2026-10-12
+Bandeirantes;apartamento;90;800000;8889;MGF;nao;2026-10-12
+Parque dos Buritis;casa;106;735000;6934;MGF;nao;2026-10-12
+Bandeirantes;apartamento;108;696487;6449;MGF;nao;2026-10-12
+Parque das Emas;apartamento;104;750000;7212;MGF;nao;2026-10-12
+Cidade Nova;apartamento;48;205000;4271;ZAP;nao;2026-10-12
+Aguas do Cerrado;apartamento;48;210000;4375;ZAP;nao;2026-10-12
+Parque das Américas;apartamento;49;210000;4286;Loft;nao;2026-10-12
+Alvorada;apartamento;98;990000;10102;Loft;nao;2026-10-12
+Vida Nova;casa;60;330000;5500;Nossa Casa;nao;2026-10-12
+Parque das Emas;apartamento;125;1200000;9600;Nossa Casa;sim;2026-10-12
+Jardim Europa;apartamento;57;470000;8246;Nossa Casa;nao;2026-10-12
+Parque das Américas;casa;83.7;420000;5018;Nossa Casa;nao;2026-10-12
+Vida Nova;casa;112;430000;3839;Nossa Casa;nao;2026-10-12
+Parque das Emas;casa;420;1500000;3571;Nossa Casa;sim;2026-10-12
+Florais dos Buritis;casa;310;1700000;5484;Nossa Casa;sim;2026-10-12
+Bandeirantes;casa;225.81;1500000;6643;Nossa Casa;sim;2026-10-12
+Bandeirantes;casa;220;1500000;6818;Nossa Casa;sim;2026-10-12
+Não informado;apartamento;49;280000;5714;Agro+ Imoveis;nao;2026-10-12
+Não informado;apartamento;49;295000;6020;Agro+ Imoveis;nao;2026-10-12
+Alvorada;apartamento;58;300000;5172;Agro+ Imoveis;nao;2026-10-12
+Jaime Seiti Fujii;casa;119;275000;2311;Agro+ Imoveis;nao;2026-10-12
+Vida Nova;casa;60;330000;5500;Agro+ Imoveis;nao;2026-10-12
+Parque das Américas;casa;60;370000;6167;Agro+ Imoveis;nao;2026-10-12
+Não informado;casa;143;350000;2448;Agro+ Imoveis;nao;2026-10-12
+Não informado;casa;50;350000;7000;Agro+ Imoveis;nao;2026-10-12
+Bandeirantes;casa;78.37;850000;10846;Benedetti;nao;2026-10-12
+Bandeirantes;casa;195.0;1600000;8205;Benedetti;sim;2026-10-12
+Bandeirantes;casa;207.0;1100000;5314;Benedetti;sim;2026-10-12
+Jaime Seiti Fujii;casa;140.0;650000;4643;Benedetti;nao;2026-10-12
+Bandeirantes;casa;300.0;2300000;7667;Benedetti;sim;2026-10-12
+Rio Verde;casa;66.0;315000;4773;Benedetti;nao;2026-10-12
+Parque das Américas;casa;75.0;360000;4800;Benedetti;nao;2026-10-12
+Menino Deus;apartamento;170.0;2200000;12941;Benedetti;sim;2026-10-12
+Veneza;apartamento;49.0;320000;6531;Benedetti;nao;2026-10-12
+Bandeirantes;casa;180.0;850000;4722;Benedetti;nao;2026-10-12
+Bandeirantes;casa;48.0;550000;11458;Benedetti;nao;2026-10-12
+Jardim das Palmeiras;casa;200.0;650000;3250;Benedetti;nao;2026-10-12
+Parque das Araras;casa;85.0;550000;6471;Benedetti;nao;2026-10-12
+Parque das Américas;casa;69.55;460000;6614;Benedetti;nao;2026-10-12
+Bandeirantes;casa;160.0;1150000;7188;Benedetti;nao;2026-10-12
+Alvorada;casa;594.0;2200000;3704;Benedetti;sim;2026-10-12
+Bandeirantes;casa;312;2800000;8974;Volpato;sim;2026-10-12
+Vida Nova;casa;70;650000;9286;Volpato;nao;2026-10-12
+Parque das Araras;casa;100;750000;7500;Volpato;nao;2026-10-12
+Jardim Amazônia;casa;120;690000;5750;Volpato;nao;2026-10-12
+Bandeirantes;apartamento;47;410000;8723;Volpato;nao;2026-10-12
+Veneza;casa;115;650000;5652;Volpato;nao;2026-10-12
+Bandeirantes;apartamento;54.19;516000;9522;Volpato;nao;2026-10-12
+Não informado;casa;206;650000;3155;Tati Griebler;nao;2026-10-12
+Bandeirantes;casa;162;700000;4321;Tati Griebler;nao;2026-10-12
+Veneza;casa;210;890000;4238;Tati Griebler;nao;2026-10-12
+Cidade Nova;casa;100;900000;9000;Tati Griebler;sim;2026-10-12
+Pioneiro;casa;205.81;1100000;5345;Tati Griebler;sim;2026-10-12
+Bandeirantes;casa;222;1150000;5180;Tati Griebler;sim;2026-10-12
+Bandeirantes;casa;190;1160000;6105;Tati Griebler;sim;2026-10-12
+Menino Deus;casa;270;1200000;4444;Tati Griebler;sim;2026-10-12
+Parque das Emas;casa;157.8;1200000;7605;Tati Griebler;sim;2026-10-12
+Pioneiro;casa;215;1500000;6977;Tati Griebler;sim;2026-10-12
+Bandeirantes;casa;195;1700000;8718;Tati Griebler;sim;2026-10-12
+Bandeirantes;casa;247;1700000;6883;Tati Griebler;sim;2026-10-12
+Parque das Emas;casa;173;1700000;9827;Tati Griebler;sim;2026-10-12
+Bandeirantes;casa;219;1950000;8904;Tati Griebler;sim;2026-10-12
+Bandeirantes;apartamento;60.14;490000;8148;Viva;nao;2026-10-12
+Parque das Emas;casa;122.5;950000;7755;Viva;nao;2026-10-12
+Bandeirantes;casa;155;800000;5161;Viva;nao;2026-10-12
+Bandeirantes;casa;476;2000000;4202;Viva;sim;2026-10-12
+Rio Verde;casa;80;350000;4375;Viva;nao;2026-10-12
+Bandeirantes;casa;126.77;1000000;7888;Viva;nao;2026-10-12
+Parque das Emas;casa;182;1398000;7681;Viva;sim;2026-10-12
+Jaime Seiti Fujii;casa;140;380000;2714;Viva;nao;2026-10-12
+Centro;apartamento;49;265000;5408;Dinamica;nao;2026-10-12
+Centro;apartamento;48;270000;5625;Dinamica;nao;2026-10-12
+Centro;apartamento;65;380000;5846;Dinamica;nao;2026-10-12
+Centro;apartamento;47;420000;8936;Dinamica;nao;2026-10-12
+Centro;apartamento;71.4;580000;8123;Dinamica;nao;2026-10-12
+Centro;apartamento;90;680000;7556;Dinamica;nao;2026-10-12
+Centro;apartamento;130;1000000;7692;Dinamica;nao;2026-10-12
+Centro;apartamento;194;1100000;5670;Dinamica;nao;2026-10-12
+Centro;apartamento;233;1600000;6867;Dinamica;nao;2026-10-12
+Veneza;casa;64;360000;5625;Modelo;nao;2026-10-12
+Veneza;casa;136;350000;2574;Modelo;nao;2026-10-12
+Rio Verde;casa;105;340000;3238;Modelo;nao;2026-10-12
+Vida Nova;casa;50;330000;6600;Modelo;nao;2026-10-12
+Parque das Araras;casa;80;320000;4000;Modelo;nao;2026-10-12
+Jaime Seiti Fujii;casa;43;299000;6953;Modelo;nao;2026-10-12
+Vida Nova;casa;140;280000;2000;Modelo;nao;2026-10-12
+Parque das Américas;casa;50;280000;5600;Modelo;nao;2026-10-12
+Jardim das Primaveras II;casa;110;660000;6000;Modelo;nao;2026-10-12
+Veneza;casa;206;650000;3155;Modelo;nao;2026-10-12
+Cidade Nova;casa;192;650000;3385;Modelo;nao;2026-10-12
+Cidade Nova;casa;169.93;650000;3825;Modelo;nao;2026-10-12
+Jardim Amazônia;casa;150;650000;4333;Modelo;nao;2026-10-12
+Florais dos Buritis;casa;202;600000;2970;Modelo;nao;2026-10-12
+Alvorada;casa;115;590000;5130;Modelo;nao;2026-10-12
+Jardim Europa;casa;140;590000;4214;Modelo;nao;2026-10-12
+Parque das Araras;casa;85;580000;6824;Modelo;nao;2026-10-12
+Vida Nova;casa;184;580000;3152;Modelo;nao;2026-10-12
+Jardim Amazônia;casa;143.66;550000;3828;Modelo;nao;2026-10-12
+Vival dos Ipês;casa;86;550000;6395;Modelo;nao;2026-10-12
+Tessele Júnior;casa;106.38;530000;4982;Modelo;nao;2026-10-12
+Jardim Primavera;casa;129.66;490000;3779;Modelo;nao;2026-10-12
+Parque das Araras;casa;70;450000;6429;Modelo;nao;2026-10-12
+Jardim Imperial;casa;156.72;430000;2744;Modelo;nao;2026-10-12
+Primavera II;casa;106;430000;4057;Modelo;nao;2026-10-12
+Rio Verde;casa;130;400000;3077;Modelo;nao;2026-10-12
+Parque das Emas;apartamento;154;1500000;9740;Modelo;sim;2026-10-12
+Parque das Emas;apartamento;125;1250000;10000;Modelo;sim;2026-10-12
+Bandeirantes;apartamento;108.76;1200000;11033;Modelo;sim;2026-10-12
+Bandeirantes;apartamento;128;1100000;8594;Modelo;nao;2026-10-12
+Parque dos Buritis;apartamento;103.41;950000;9187;Modelo;nao;2026-10-12
+Bandeirantes;apartamento;109;920000;8440;Modelo;nao;2026-10-12
+Alvorada;apartamento;98;820000;8367;Modelo;nao;2026-10-12
+Bandeirantes;apartamento;92;750000;8152;Modelo;nao;2026-10-12
+Bandeirantes;apartamento;94;670000;7128;Modelo;nao;2026-10-12
+Parque dos Buritis;apartamento;81.82;650000;7944;Modelo;nao;2026-10-12
+Bandeirantes;apartamento;91;640000;7033;Modelo;nao;2026-10-12
+Alvorada;apartamento;64;530000;8281;Modelo;nao;2026-10-12
+Rio Verde;casa;92.22;330000;3578;Ideal;nao;2026-10-12
+Jardim das Palmeiras;casa;52;350000;6731;Ideal;nao;2026-10-12
+Jardim Primavera;casa;96;380000;3958;Ideal;nao;2026-10-12
+Jardim Primavera;casa;111;380000;3423;Ideal;nao;2026-10-12
+Jardim Amazônia;casa;69;380000;5507;Ideal;nao;2026-10-12
+Jaime Seiti Fujii;casa;78;380000;4872;Ideal;nao;2026-10-12
+Jardim Primavera;casa;120;385000;3208;Ideal;nao;2026-10-12
+Jaime Seiti Fujii;casa;58.87;400000;6795;Ideal;nao;2026-10-12
+Rio Verde;casa;126;420000;3333;Ideal;nao;2026-10-12
+Veneza;casa;70;420000;6000;Ideal;nao;2026-10-12
+Cidade Nova;casa;90;420000;4667;Ideal;nao;2026-10-12
+Jaime Seiti Fujii;casa;95;420000;4421;Ideal;nao;2026-10-12
+Vida Nova;casa;175;430000;2457;Ideal;nao;2026-10-12
+Vival dos Ipês;casa;69;450000;6522;Ideal;nao;2026-10-12
+Parque das Américas;casa;58.87;470000;7984;Ideal;nao;2026-10-12
+Jardim Primavera;casa;105.59;480000;4546;Ideal;nao;2026-10-12
+Jardim Imperial;casa;177.77;480000;2700;Ideal;nao;2026-10-12
+Vida Nova;casa;90;480000;5333;Ideal;nao;2026-10-12
+Jardim Imperial;casa;104;500000;4808;Ideal;nao;2026-10-12
+Parque das Araras;casa;81;500000;6173;Ideal;nao;2026-10-12
+Alvorada;casa;120;500000;4167;Ideal;nao;2026-10-12
+Parque das Araras;casa;65;520000;8000;Ideal;nao;2026-10-12
+Vival dos Ipês;casa;85;550000;6471;Ideal;nao;2026-10-12
+Jardim Amazônia;casa;140;550000;3929;Ideal;nao;2026-10-12
+Jardim Imperial;casa;123;550000;4472;Ideal;nao;2026-10-12
+Parque das Araras;casa;84.9;570000;6714;Ideal;nao;2026-10-12
+Jardim das Palmeiras;casa;110;580000;5273;Ideal;nao;2026-10-12
+Bandeirantes;casa;110;600000;5455;Ideal;nao;2026-10-12
+Parque das Araras;casa;97.78;650000;6648;Ideal;nao;2026-10-12
+Parque das Emas;casa;107;650000;6075;Ideal;nao;2026-10-12
+Parque dos Buritis;casa;106;672000;6340;Ideal;nao;2026-10-12
