@@ -6,7 +6,7 @@ Análise de dados que mede quanto custa comprar um imóvel em Lucas do Rio Verde
 
 ---
 
-## Este é o 3º projeto de uma análise em três camadas
+## Camada 3 de uma análise em quatro partes conectadas
 
 - **[Camada 1 — Projeção populacional e demanda habitacional](https://github.com/thamires-siriustech/previsao-populacional-lucas-do-rio-verde)** estima a demanda bruta total de moradias entre 2027 e 2035 a partir do crescimento populacional.
 - **[Camada 2 — Oferta habitacional](https://github.com/thamires-siriustech/habitacao-social-lucas-do-rio-verde)** mediu a *oferta* real de habitação de interesse social e o descompasso com a demanda.
@@ -62,7 +62,7 @@ precos-imoveis-lucas-do-rio-verde/
 
 - **Retrato do momento (outubro/2026), não série histórica** — anúncios antigos não ficam arquivados.
 - **Preço de anúncio, não de fechamento** — valor pedido, geralmente acima do preço real de venda.
-- **Possível sobreposição entre fontes** — imobiliárias de Lucas trabalham com carteira aberta; a verificação por área+preço não encontrou duplicatas óbvias, mas o risco não é zero.
+- **Possível sobreposição entre fontes** — três linhas inteiras exatamente duplicadas foram removidas. Combinações iguais de bairro, tipo, área e preço em fontes diferentes foram sinalizadas para revisão manual e mantidas, pois podem ser anúncios espelhados ou imóveis distintos.
 - **Áreas vêm do próprio anúncio**, não de medição independente.
 - **Comparação regional com fontes distintas** — Lucas vem de anúncios; Cuiabá e Brasil, do FipeZap. Indica ordem de grandeza, não medição idêntica.
 
