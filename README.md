@@ -8,25 +8,26 @@ Análise de dados que mede quanto custa comprar um imóvel em Lucas do Rio Verde
 
 ## Este é o 3º projeto de uma análise em três camadas
 
-- **[Camada 1 — Projeção populacional e demanda habitacional](https://github.com/thamires-siriustech/previsao-populacional-lucas-do-rio-verde)** projetou a *demanda* futura por moradia (1.100 a 1.800 novas unidades/ano até 2035).
+- **[Camada 1 — Projeção populacional e demanda habitacional](https://github.com/thamires-siriustech/previsao-populacional-lucas-do-rio-verde)** estima a demanda bruta total de moradias entre 2027 e 2035 a partir do crescimento populacional.
 - **[Camada 2 — Oferta habitacional](https://github.com/thamires-siriustech/habitacao-social-lucas-do-rio-verde)** mediu a *oferta* real de habitação de interesse social e o descompasso com a demanda.
 - **Camada 3 (este repositório)** mede o *preço*: quanto custa o imóvel em Lucas hoje, e onde.
+- **[Camada 4 — Acessibilidade](https://github.com/thamires-siriustech/acessibilidade-imovel-lucas-do-rio-verde)** compara esses preços com faixas de renda e simula cenários de financiamento.
 
-A lógica fecha o ciclo: população crescendo rápido (Camada 1) + oferta aquém do ritmo (Camada 2) → pressão sobre os preços (Camada 3). Esta camada testa isso com dado de mercado.
+A sequência conecta crescimento populacional, oferta social, preços anunciados e acessibilidade. Ela organiza hipóteses para investigar, mas não prova causalidade entre as quatro dimensões.
 
 ## Principais resultados
 
-- O m² residencial em Lucas gira em torno de **R$ 6.222 (mediana)**, com a metade central dos imóveis entre ~R$ 4.600 e R$ 7.500/m².
+- O m² residencial em Lucas gira em torno de **R$ 6.212 (mediana)**, com a metade central dos anúncios típicos entre ~R$ 4.570 e R$ 7.478/m².
 - **Uma cidade do interior cobra ~90% do m² da capital:** Lucas fica a apenas ~10% abaixo de Cuiabá (FipeZap), que tem quase sete vezes a sua população — o achado central do projeto.
-- **Geografia de preços marcada:** do Parque das Emas e Bandeirantes (~R$ 7.700 a 8.000/m²) ao Jardim Imperial e Jardim Primavera (~R$ 3.600 a 4.200/m²) — o m² varia **mais de 120%** conforme o bairro.
-- **Apartamento custa ~43% mais por m² que casa** (R$ 7.556 vs R$ 5.273, medianas).
+- **Geografia de preços marcada:** do Parque das Emas e Bandeirantes (~R$ 7.700 a 8.000/m²) ao Jardim Imperial e Jardim Primavera (~R$ 3.600 a 4.200/m²) — a diferença entre as médias dos extremos é de cerca de **119%**, em relação ao bairro mais barato.
+- **Apartamento custa ~46% mais por m² que casa** (medianas de R$ 7.624 vs R$ 5.217).
 - O imóvel típico sai por volta de **R$ 540 mil**, com a entrada no mercado perto de **R$ 205 mil**.
 
 ## Metodologia
 
-1. **Construção do dataset** — não existe índice público de preço para Lucas (o FipeZap cobre só grandes cidades; em MT, apenas Cuiabá). O dataset foi coletado dos sites de **13 imobiliárias e portais locais**, com preço, área construída e bairro de cada imóvel: **236 anúncios de 25 bairros**.
+1. **Construção do dataset** — não existe índice público de preço para Lucas (o FipeZap cobre só grandes cidades; em MT, apenas Cuiabá). O dataset foi coletado dos sites de **13 imobiliárias e portais locais**, com preço, área construída e bairro de cada imóvel: **233 anúncios de 25 bairros**, após remoção de três linhas exatamente duplicadas.
 2. **Critério de qualidade** — o preço/m² só é calculado sobre **área construída**. Fontes que só informavam área de terreno foram descartadas; de uma fonte cujos cards misturavam construída e terreno nas casas, entraram apenas os apartamentos.
-3. **Separação do mercado típico** — imóveis atípicos (mansões de luxo, micro-investimento) são marcados e separados; a análise principal usa os **188 típicos**.
+3. **Separação do mercado típico** — imóveis atípicos (mansões de luxo, micro-investimento) são marcados e separados; a análise principal usa os **186 típicos**.
 4. **Análise** — distribuição do preço/m², mapa de preços por bairro (bairros com 5+ anúncios), casa × apartamento e faixa de orçamento, e comparação regional com Cuiabá e Brasil (FipeZap).
 
 ## Stack técnico
@@ -52,7 +53,7 @@ Mantenha o notebook e o CSV na mesma pasta. No Jupyter, use **Kernel → Restart
 ```
 precos-imoveis-lucas-do-rio-verde/
 ├── analise_precos_lucas_do_rio_verde.ipynb   # análise completa
-├── precos_imoveis_lucas.csv                  # dataset de anúncios (236 registros)
+├── precos_imoveis_lucas.csv                  # dataset de anúncios (233 registros)
 ├── requirements.txt
 └── README.md
 ```
@@ -72,4 +73,4 @@ Anúncios de venda coletados dos sites de 13 imobiliárias e portais de Lucas do
 ---
 
 **Autora:** Thamires Martins da Silva
-Projeto de portfólio em análise de dados — Camada 3 de 3.
+Projeto de portfólio em análise de dados — Camada 3 de 4.
